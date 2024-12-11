@@ -1,0 +1,7 @@
+packages:
+  - 'packages/api/**'
+  - 'packages/assets/**'
+  - 'packages/components/**'
+  - 'packages/store/**'
+  - 'web/h5'
+  - 'web/pc'
